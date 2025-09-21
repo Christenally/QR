@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com](https://github.com/Christenally/QR/blob/main/index.html)
-- Live Site URL: (https://your-live-site-url.com](https://christenally.github.io/QR)
+- Solution URL: [Solution](https://github.com/Christenally/QR/blob/main/index.html)
+- Live Site URL: [Live](https://christenally.github.io/QR)
 
 ### Built with
 
